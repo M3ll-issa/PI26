@@ -19,11 +19,11 @@ Aproximar usuários da leitura, recompensando por livros lidos
 - Funcionalidade 3
 
 ## Estrutura do Projeto
--|          /-style.css
--|-pasta css
--|-pasta IMG
--|          \-Imagens
--\-Arquivos HTML
+- |          /-style.css
+- |-pasta css
+- |-pasta IMG
+- |          \-Imagens
+- \-Arquivos HTML
 
 ## Como Executar
 Abrir o arquivo index.html no seu navegador de preferência
