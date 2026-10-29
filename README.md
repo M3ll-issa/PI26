@@ -19,11 +19,7 @@ Aproximar usuários da leitura, recompensando por livros lidos
 - Funcionalidade 3
 
 ## Estrutura do Projeto
-- |          /-style.css
-- |-pasta css
-- |-pasta IMG
-- |          \-Imagens
-- \-Arquivos HTML
+pasta css com arquivo style.css, pasta IMG com varias imagens e a pasta raiz com arquivos HTML.
 
 ## Como Executar
 Abrir o arquivo index.html no seu navegador de preferência
