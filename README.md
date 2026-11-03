@@ -17,6 +17,7 @@ Aproximar usuários da leitura, recompensando por livros lidos
 - Descrição dos livros
 - Calendário de eventos
 - Recompensa de usuários com pódio por tempo de leitura
+- Chat com outros membros
 
 ## Estrutura do Projeto
 pasta css com arquivo style.css, pasta IMG com varias imagens e a pasta raiz com arquivos HTML.
