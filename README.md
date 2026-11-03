@@ -14,9 +14,9 @@ Aproximar usuários da leitura, recompensando por livros lidos
 - Bootstrap
 
 ## Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Descrição dos livros
+- Calendário de eventos
+- Recompensa de usuários com pódio por tempo de leitura
 
 ## Estrutura do Projeto
 pasta css com arquivo style.css, pasta IMG com varias imagens e a pasta raiz com arquivos HTML.
