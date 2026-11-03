@@ -41,4 +41,4 @@ Introdução dos projetos, apresentação da funcionalidade das páginas, aprese
 
 ## Links Importantes
 - [Github](https://github.com/M3ll-issa/PI26.git)
-- Deploy [Vercel] (https://clubekoiros.vercel.app/)
+- [Vercel](https://clubekoiros.vercel.app/)
