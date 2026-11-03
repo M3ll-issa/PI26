@@ -22,10 +22,10 @@ Aproximar usuários da leitura, recompensando por livros lidos
 pasta css com arquivo style.css, pasta IMG com varias imagens e a pasta raiz com arquivos HTML.
 
 ## Como Executar
-Abrir o arquivo index.html no seu navegador de preferência
+Abrir o arquivo index.html no seu navegador de preferência.
 
 ## Deploy
-- Deploy
+- Deploy em Vercel
 
 ## Integrantes
 - Melissa Veiga
@@ -36,8 +36,8 @@ Abrir o arquivo index.html no seu navegador de preferência
 - Giuliano de Toledo Furlanetto
 
 ## Pitch
-Resumo do pitch de apresentação.
+Introdução dos projetos, apresentação da funcionalidade das páginas 
 
 ## Links Importantes
 - [Github](https://github.com/M3ll-issa/PI26.git)
-- Deploy
+- Deploy [Vercel] ()
