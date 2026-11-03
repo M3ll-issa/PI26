@@ -4,11 +4,11 @@
 O Kóiros é um clube virtual criado para aproximar leitores, livros e diferentes formas de interpretar uma história. 
 
 ## Objetivo
-Aproximar usuários da leitura, recompensando por livros lidos
+Aproximar usuários da leitura, recompensando por livros lidos.
 
 ## Tecnologias Utilizadas
 
-### Frontend (1TW)
+### Frontend
 - HTML
 - CSS
 - Bootstrap
@@ -37,8 +37,8 @@ Abrir o arquivo index.html no seu navegador de preferência.
 - Giuliano de Toledo Furlanetto
 
 ## Pitch
-Introdução dos projetos, apresentação da funcionalidade das páginas 
+Introdução dos projetos, apresentação da funcionalidade das páginas, apresentação dos links das páginas para onde elas levam, falamos algumas informações adicionais e mostramos as fontes que foram usadas como: ferramenta, livros e alguns trailer caso o livro tenha alguma adaptação.
 
 ## Links Importantes
 - [Github](https://github.com/M3ll-issa/PI26.git)
-- Deploy [Vercel] ()
+- Deploy [Vercel] (https://clubekoiros.vercel.app/)
